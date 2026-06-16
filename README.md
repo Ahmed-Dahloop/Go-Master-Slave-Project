@@ -20,4 +20,6 @@ can drop the DB
 o Replication (replicate data across nodes)
 # Basic fault tolerance (e.g., if a master goes down, system still works)
 <img width="281" height="303" alt="image" src="https://github.com/user-attachments/assets/e86e711c-f75b-4e93-b195-c51587807783" />
-GUI by tkinter
+
+#GUI by tkinter
+<img width="1011" height="696" alt="image" src="https://github.com/user-attachments/assets/25847a32-1f99-4b24-b3fd-a8cc7f21a80c" />
